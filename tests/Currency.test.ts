@@ -1,4 +1,4 @@
-import Currency from "../core/Values/Currency";
+import Currency from "../src/core/Values/Currency";
 
 test('It should create a Currency', function(){
 

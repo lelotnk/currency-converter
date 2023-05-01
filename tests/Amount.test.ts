@@ -1,5 +1,5 @@
-import Amount from "../core/Values/Amount";
-import Currency from "../core/Values/Currency";
+import Amount from "../src/core/Values/Amount";
+import Currency from "../src/core/Values/Currency";
 
 test('It should create an Amount instance', function(){
 

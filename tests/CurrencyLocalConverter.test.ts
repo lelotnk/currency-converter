@@ -1,5 +1,5 @@
-import ConvertCurrencies from "../core/UseCases/ConvertCurrencies";
-import LocalConverter from "../services/LocalConverter";
+import ConvertCurrencies from "../src/core/UseCases/ConvertCurrencies";
+import LocalConverter from "../src/services/LocalConverter";
 
 test('It should convert USD to BRL', async function(){
 
