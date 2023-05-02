@@ -4,14 +4,14 @@ Conversor de moedas utilizando a API do Banco Central do Brasil
 
 
 ```
-import { Converter } from './dist/index';
+import { Converter } from '@lelotnk/currency-converter';
 
 Converter.convert("USD", "BRL", 1)
     .then(response =>  console.log(response));
 ```
 
 ```
-const { Converter } = require('./dist');
+const { Converter } = require('@lelotnk/currency-converter');
 
 Converter.convert("USD", "BRL", 1)
     .then(response =>  console.log(response));
