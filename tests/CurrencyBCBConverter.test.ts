@@ -1,4 +1,4 @@
-import ConvertCurrencies from "../src/core/UseCases/ConvertCurrencies";
+import ConvertCurrencies from "../src/UseCases/ConvertCurrencies";
 import BCBConverter from "../src/services/BCBConverter";
 
 test('It should convert USD to BRL', async function(){

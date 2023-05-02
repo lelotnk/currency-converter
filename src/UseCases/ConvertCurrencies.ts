@@ -1,7 +1,7 @@
-import Conversion from "../Contracts/Conversion";
-import CurrencyConverter from "../Contracts/Converter";
-import Amount from "../Values/Amount";
-import Currency from "../Values/Currency";
+import Conversion from "../core/Contracts/Conversion";
+import CurrencyConverter from "../core/Contracts/Converter";
+import Amount from "../core/Values/Amount";
+import Currency from "../core/Values/Currency";
 
 export default class ConvertCurrencies {
 
