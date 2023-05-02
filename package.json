@@ -1,6 +1,6 @@
 {
   "name": "@lelotnk/currency-converter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Conversor de moedas utilizando a API do Banco Central do Brasil.",
   "main": "dist/index.js",
   "type": "module",
